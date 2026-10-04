@@ -118,6 +118,14 @@ npm install
 
 ---
 
+### Langkah 3: Build NPM
+Jalankan perintah berikut untuk meload css/js:
+```bash
+npm run build
+```
+
+---
+
 ### Langkah 4: Setup Berkas Lingkungan (`.env`)
 Salin berkas konfigurasi template `.env.example` menjadi `.env`:
 ```bash
